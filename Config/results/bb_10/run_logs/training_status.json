@@ -1,0 +1,66 @@
+{
+    "BalanceBall": {
+        "checkpoints": [
+            {
+                "steps": 999953,
+                "file_path": "results\\bb_10\\BalanceBall\\BalanceBall-999953.onnx",
+                "reward": 13.545887196065474,
+                "creation_time": 1678171090.6168904,
+                "auxillary_file_paths": [
+                    "results\\bb_10\\BalanceBall\\BalanceBall-999953.pt"
+                ]
+            },
+            {
+                "steps": 1499941,
+                "file_path": "results\\bb_10\\BalanceBall\\BalanceBall-1499941.onnx",
+                "reward": 12.103332096238098,
+                "creation_time": 1678182814.5239143,
+                "auxillary_file_paths": [
+                    "results\\bb_10\\BalanceBall\\BalanceBall-1499941.pt"
+                ]
+            },
+            {
+                "steps": 1999929,
+                "file_path": "results\\bb_10\\BalanceBall\\BalanceBall-1999929.onnx",
+                "reward": 12.338005469842527,
+                "creation_time": 1678194530.7711115,
+                "auxillary_file_paths": [
+                    "results\\bb_10\\BalanceBall\\BalanceBall-1999929.pt"
+                ]
+            },
+            {
+                "steps": 2499987,
+                "file_path": "results\\bb_10\\BalanceBall\\BalanceBall-2499987.onnx",
+                "reward": 6.568360150155346,
+                "creation_time": 1678205962.6480381,
+                "auxillary_file_paths": [
+                    "results\\bb_10\\BalanceBall\\BalanceBall-2499987.pt"
+                ]
+            },
+            {
+                "steps": 2609580,
+                "file_path": "results\\bb_10\\BalanceBall\\BalanceBall-2609580.onnx",
+                "reward": null,
+                "creation_time": 1678206411.0142696,
+                "auxillary_file_paths": [
+                    "results\\bb_10\\BalanceBall\\BalanceBall-2609580.pt"
+                ]
+            }
+        ],
+        "elo": -242.81230795738904,
+        "final_checkpoint": {
+            "steps": 2609580,
+            "file_path": "results\\bb_10\\BalanceBall.onnx",
+            "reward": null,
+            "creation_time": 1678206411.0142696,
+            "auxillary_file_paths": [
+                "results\\bb_10\\BalanceBall\\BalanceBall-2609580.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1"
+    }
+}

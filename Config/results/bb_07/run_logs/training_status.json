@@ -1,0 +1,30 @@
+{
+    "BalanceBall": {
+        "elo": 147.18436706688888,
+        "checkpoints": [
+            {
+                "steps": 155628,
+                "file_path": "results\\bb_07\\BalanceBall\\BalanceBall-155628.onnx",
+                "reward": 123.09671452045441,
+                "creation_time": 1678142554.8019178,
+                "auxillary_file_paths": [
+                    "results\\bb_07\\BalanceBall\\BalanceBall-155628.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 155628,
+            "file_path": "results\\bb_07\\BalanceBall.onnx",
+            "reward": 123.09671452045441,
+            "creation_time": 1678142554.8019178,
+            "auxillary_file_paths": [
+                "results\\bb_07\\BalanceBall\\BalanceBall-155628.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1"
+    }
+}
