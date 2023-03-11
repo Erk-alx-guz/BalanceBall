@@ -6,4 +6,4 @@
   <img src="Images/TableTopView.png" height="225" width="400" />
 </p>
 
-BalanceBall is an ML-Agents project. It is a multi-agent environment with two agents as the legs of a narrow table. The objective of the agents is to balance the ball at the center of the table.
+BalanceBall is an [ML-Agents](https://github.com/Unity-Technologies/ml-agents/tree/release_19_branch) simulation environment where two agents act as the legs of a narrow table, tasked with balancing a ball. The agents aim to keep the ball close to a velocity of zero at the center of the table to earn maximum reward, demonstrating their ability to maintain the ball's position. They are also rewarded for keeping themselves as vertical as possible, which encourages them to focus on balance and stability.
